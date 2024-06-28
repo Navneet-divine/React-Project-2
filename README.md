@@ -1,1 +1,1 @@
-Made Tic-Tac-Toe game using react it's my second project of react after learning Components,Jsx,Props,State in react.
+Made a Tic-Tac-Toe game using React it's my second project in React after learning Components, Jsx, Props, and State in React.
